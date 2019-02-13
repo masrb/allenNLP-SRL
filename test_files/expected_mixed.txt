@@ -1,0 +1,2 @@
+[{"verbs": [{"verb": "represented", "description": "[ARG0: Which NFL team] [V: represented] [ARG1: the AFC] [ARGM-LOC: at Super Bowl 50] ?", "tags": ["B-ARG0", "I-ARG0", "I-ARG0", "B-V", "B-ARG1", "I-ARG1", "B-ARGM-LOC", "I-ARGM-LOC", "I-ARGM-LOC", "I-ARGM-LOC", "O"]}], "words": ["Which", "NFL", "team", "represented", "the", "AFC", "at", "Super", "Bowl", "50", "?"]}]
+[{"verbs": [], "words": ["kad", "iekaf", "@@$$%$", "uuje", "he3546"]}]
